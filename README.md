@@ -22,7 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-![OwboxAl3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwboxAl3x&show_icons=true&theme=radical)
+![OwboxAl3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwboxAl3x&show_icons=true&hide=stars&theme=transparent)
 
 ---
 
